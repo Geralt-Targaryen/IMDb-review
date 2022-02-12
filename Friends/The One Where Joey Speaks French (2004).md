@@ -2,7 +2,7 @@
 
 ###### Episode 13, Season 10
 
-## Finally
+### Finally
 
 Ross and Rachel finally had some progress..... That's basically the only thing that kept me watching this show for the last three seasons. And for that reason, I give this episode a 8/10.
 
