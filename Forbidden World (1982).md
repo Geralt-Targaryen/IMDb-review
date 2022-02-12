@@ -1,4 +1,5 @@
-#A bit too cheap
+# A bit too cheap
+
 It's 2022, I just watched Eternals, Dune, Witcher S2 and some other latest Si-Fi & fantasy stuff in the past few days, and felt like something old and cheap for a change. Then I saw the poster of this movie, and it seemed just what I wanted.
 
 And it turned out to be way older and cheaper than I expected. While watching it I thought it's probably made in 50's or 60's, so I shouldn't be too demanding about the photography and CG whatsoever. It actually reminds me a lot of Forbidden Planet, even though people say that's a good movie and this is a bad one. But then I found out it's actually made in 1982, and that's a bit outrageous - after all one would expect something more watchable after Star Wars and Alien.
