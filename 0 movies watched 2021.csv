@@ -1,0 +1,101 @@
+Position,Const,Title,IMDb Rating,Runtime (mins),Year,Genres,Num Votes,Release Date,Directors
+1,tt1533117,Rang zi dan fei,7.2,132,2010,"Action, Comedy, Drama, Western",11084,2010/12/16,Wen Jiang
+2,tt2106651,Spectral,6.3,107,2016,"Action, Adventure, Sci-Fi",58935,2016/12/9,Nic Mathieu
+3,tt4633694,Spider-Man: Into the Spider-Verse,8.4,117,2018,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",497611,2018/12/6,"Bob Persichetti, Rodney Rothman, Peter Ramsey"
+4,tt1470827,Monsters,6.4,94,2010,"Adventure, Drama, Romance, Sci-Fi, Thriller",92059,2010/3/13,Gareth Edwards
+5,tt1564585,Skyline,4.5,92,2010,"Action, Sci-Fi, Thriller",89735,2010/11/11,"Greg Strause, Colin Strause"
+6,tt1724970,Beyond Skyline,5.3,106,2017,"Action, Adventure, Sci-Fi",21821,2017/10/14,Liam O'Donnell
+7,tt0073260,The Land That Time Forgot,5.6,91,1974,"Adventure, Fantasy",6318,1974/11/29,Kevin Connor
+8,tt2222042,Love and Monsters,6.9,109,2020,"Action, Adventure, Comedy, Fantasy, Sci-Fi",122972,2020/4/14,Michael Matthews
+9,tt1740707,Trolljegeren,6.9,103,2010,"Drama, Fantasy, Horror, Sci-Fi, Thriller",73685,2010/10/29,André _vredal
+10,tt5923962,Gantz: O,7.1,95,2016,"Animation, Action, Drama, Fantasy, Sci-Fi, Thriller",14860,2016/9/8,"Kei'ichi Sato, Yasushi Kawamura"
+11,tt2911666,John Wick,7.4,101,2014,"Action, Crime, Thriller",609868,2014/9/19,"David Leitch, Chad Stahelski"
+12,tt0286106,Signs,6.8,106,2002,"Drama, Mystery, Sci-Fi, Thriller",358497,2002/7/29,M. Night Shyamalan
+13,tt0274166,Johnny English,6.2,89,2003,"Action, Adventure, Comedy",158938,2003/4/6,Peter Howitt
+14,tt2034800,The Great Wall,5.9,103,2016,"Action, Adventure, Fantasy, Thriller",133053,2016/12/6,Yimou Zhang
+15,tt1634122,Johnny English Reborn,6.3,101,2011,"Action, Adventure, Comedy",129645,2011/9/15,Oliver Parker
+16,tt0978764,Sucker Punch,6,110,2011,"Action, Adventure, Fantasy",241768,2011/3/21,Zack Snyder
+17,tt5073642,Color Out of Space,6.1,111,2019,"Horror, Mystery, Sci-Fi, Thriller",46169,2019/9/7,Richard Stanley
+18,tt3361792,Tolkien,6.8,112,2019,"Biography, Drama, Romance, War",39856,2019/4/29,Dome Karukoski
+19,tt6921996,Johnny English Strikes Again,6.2,89,2018,"Action, Adventure, Comedy",73003,2018/9/13,David Kerr
+20,tt4425200,John Wick: Chapter 2,7.4,122,2017,"Action, Crime, Thriller",417539,2017/1/30,Chad Stahelski
+21,tt0110912,Pulp Fiction,8.9,154,1994,"Crime, Drama",1994528,1994/5/21,Quentin Tarantino
+22,tt0167190,Hellboy,6.8,122,2004,"Action, Adventure, Fantasy, Horror, Sci-Fi",324932,2004/3/30,Guillermo del Toro
+23,tt0409847,Cowboys & Aliens,6,119,2011,"Action, Sci-Fi, Thriller, Western",219426,2011/7/29,Jon Favreau
+24,tt0411477,Hellboy II: The Golden Army,7,120,2008,"Action, Adventure, Fantasy, Horror, Sci-Fi",269101,2008/6/28,Guillermo del Toro
+25,tt1571234,Mortal Engines,6.1,128,2018,"Action, Adventure, Fantasy, Sci-Fi, Thriller",123775,2018/12/5,Christian Rivers
+26,tt0120815,Saving Private Ryan,8.6,169,1998,"Drama, War",1354742,1998/7/21,Steven Spielberg
+27,tt4819498,Jiu ceng yao ta,5.1,118,2015,"Action, Adventure, Drama, Fantasy",1755,2015/9/30,Chuan Lu
+28,tt6087226,Koma,6.3,111,2019,"Action, Adventure, Fantasy, Mystery, Sci-Fi",10026,2019/11/19,Nikita Argunov
+29,tt2692250,Night at the Museum: Secret of the Tomb,6.2,98,2014,"Adventure, Comedy, Family, Fantasy",120269,2014/12/17,Shawn Levy
+30,tt4547194,I Kill Giants,6.1,106,2017,"Drama, Fantasy, Thriller",32268,2017/9/9,Anders Walter
+31,tt2315596,Galveston,6.2,91,2018,"Action, Crime, Drama, Thriller",14358,2018/3/10,Mélanie Laurent
+32,tt3585004,Zhong Kui fu mo: Xue yao mo ling,5.3,118,2015,"Action, Fantasy, Romance",1340,2015/2/19,"Tianyu Zhao, Peter Pau"
+33,tt4276752,Xun long jue,5.9,127,2015,"Action, Adventure, Drama, Fantasy, Horror, Mystery, Thriller",3916,2015/12/17,Wuershan
+34,tt3986820,The Endless,6.5,111,2017,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",41558,2017/4/21,"Aaron Moorhead, Justin Benson"
+35,tt1034314,Iron Sky,5.9,93,2012,"Action, Adventure, Comedy, Sci-Fi",93974,2012/2/11,Timo Vuorensola
+36,tt4196776,Jason Bourne,6.6,123,2016,"Action, Thriller",224744,2016/7/3,Paul Greengrass
+37,tt6882604,Archive,6.3,109,2020,"Drama, Mystery, Sci-Fi, Thriller",20629,2020/7/10,Gavin Rothery
+38,tt4530422,Overlord,6.6,110,2018,"Action, Horror, Sci-Fi, War",97554,2018/9/22,Julius Avery
+39,tt0448134,Sunshine,7.2,107,2007,"Sci-Fi, Thriller",248162,2007/3/23,Danny Boyle
+40,tt1182345,Moon,7.8,97,2009,"Drama, Mystery, Sci-Fi",355261,2009/1/23,Duncan Jones
+41,tt0106559,Ching se,7.2,99,1993,"Drama, Fantasy",3032,1993/11/4,Hark Tsui
+42,tt5700182,Starfish,5.2,101,2018,"Drama, Sci-Fi, Thriller",4175,2018/9/21,A.T. White
+43,tt0264508,Dagon,6.2,98,2001,"Fantasy, Horror, Mystery",18823,2001/10/12,Stuart Gordon
+44,tt0443649,"10,000 BC",5.1,109,2008,"Action, Adventure, Drama, Fantasy, History",130704,2008/2/22,Roland Emmerich
+45,tt2239822,Valerian and the City of a Thousand Planets,6.4,136,2017,"Action, Adventure, Fantasy, Sci-Fi",178965,2017/7/17,Luc Besson
+46,tt2713180,Fury,7.5,134,2014,"Action, Drama, War",476093,2014/10/15,David Ayer
+47,tt0460740,Cashback,7.1,102,2006,"Comedy, Drama, Romance",87061,2006/9/10,Sean Ellis
+48,tt5034838,Godzilla vs. Kong,6.3,113,2021,"Action, Sci-Fi, Thriller",200347,2021/3/24,Adam Wingard
+49,tt12361974,Zack Snyder's Justice League,8,242,2021,"Action, Adventure, Fantasy, Sci-Fi",381492,2021/3/18,Zack Snyder
+50,tt1535108,Elysium,6.6,109,2013,"Action, Drama, Sci-Fi",442567,2013/8/7,Neill Blomkamp
+51,tt0114720,Tremors II: Aftershocks,5.9,100,1996,"Action, Comedy, Horror, Sci-Fi, Thriller, Western",30366,1996/4/9,S.S. Wilson
+52,tt7126948,Wonder Woman 1984,5.4,151,2020,"Action, Adventure, Fantasy",257523,2020/12/16,Patty Jenkins
+53,tt5433138,F9,5.2,143,2021,"Action, Crime, Thriller",125500,2021/5/19,Justin Lin
+54,tt3480822,Black Widow,6.7,134,2021,"Action, Adventure, Sci-Fi",356652,2021/6/30,Cate Shortland
+55,tt6723592,Tenet,7.3,150,2020,"Action, Adventure, Sci-Fi, Thriller",473106,2020/8/22,Christopher Nolan
+56,tt0251075,Evolution,6.1,101,2001,"Comedy, Sci-Fi",128418,2001/6/8,Ivan Reitman
+57,tt4154756,Avengers: Infinity War,8.4,149,2018,"Action, Adventure, Sci-Fi",1026279,2018/4/23,"Anthony Russo, Joe Russo"
+58,tt4154796,Avengers: Endgame,8.4,181,2019,"Action, Adventure, Drama, Sci-Fi",1066624,2019/4/22,"Anthony Russo, Joe Russo"
+59,tt0259685,Tremors 3: Back to Perfection,5.3,104,2001,"Action, Comedy, Horror, Sci-Fi, Thriller",17851,2001/10/2,Brent Maddock
+60,tt4180514,Tremors 5: Bloodlines,5.2,99,2015,"Action, Adventure, Comedy, Horror, Sci-Fi, Thriller",8013,2015/10/6,Don Michael Paul
+61,tt0309698,Identity,7.3,90,2003,"Mystery, Thriller",244433,2003/4/23,James Mangold
+62,tt0401729,John Carter,6.6,132,2012,"Action, Adventure, Sci-Fi",269985,2012/2/22,Andrew Stanton
+63,tt1650407,"Få meg på, for faen",6.3,76,2011,"Comedy, Romance",9430,2011/4/20,Jannicke Systad Jacobsen
+64,tt6146586,John Wick: Chapter 3 - Parabellum,7.4,130,2019,"Action, Crime, Thriller",329052,2019/5/15,Chad Stahelski
+65,tt6475714,Monster Hunter,5.2,103,2020,"Action, Adventure, Fantasy",56441,2020/9/3,Paul W.S. Anderson
+66,tt0119116,The Fifth Element,7.6,126,1997,"Action, Adventure, Sci-Fi",466632,1997/5/7,Luc Besson
+67,tt0049223,Forbidden Planet,7.5,98,1956,"Adventure, Sci-Fi",48932,1956/3/23,Fred M. Wilcox
+68,tt1830713,Big Ass Spider!,5.3,80,2013,"Action, Adventure, Comedy, Sci-Fi, Thriller",7294,2013/3/7,Mike Mendez
+69,tt0083907,The Evil Dead,7.4,85,1981,Horror,205801,1981/10/15,Sam Raimi
+70,tt1259521,The Cabin in the Woods,7,95,2011,"Horror, Mystery, Thriller",409426,2011/12/11,Drew Goddard
+71,tt0758730,AVPR: Aliens vs Predator - Requiem,4.6,94,2007,"Action, Adventure, Horror, Sci-Fi, Thriller",123072,2007/12/25,"Greg Strause, Colin Strause"
+72,tt0047573,Them!,7.2,94,1954,"Horror, Sci-Fi",21934,1954/6/15,Gordon Douglas
+73,tt0462465,Outlander,6.2,115,2008,"Action, Adventure, Sci-Fi",75503,2008/7/11,Howard McCain
+74,tt8106534,6 Underground,6.1,128,2019,"Action, Thriller",170871,2019/12/10,Michael Bay
+75,tt0372873,D-War,3.5,107,2007,"Action, Drama, Fantasy, Thriller",24478,2007/8/1,Hyung-rae Shim
+76,tt0070909,Westworld,6.9,88,1973,"Action, Sci-Fi, Thriller, Western",57411,1973/10/24,Michael Crichton
+77,tt6086082,Tremors: A Cold Day in Hell,5,98,2018,"Action, Adventure, Comedy, Horror, Sci-Fi, Thriller",5933,2018/4/30,Don Michael Paul
+78,tt0271367,Eight Legged Freaks,5.5,99,2002,"Action, Adventure, Comedy, Horror, Sci-Fi, Thriller",57122,2002/5/30,Ellory Elkayem
+79,tt0092991,Evil Dead II,7.7,84,1987,"Comedy, Horror",161863,1987/3/13,Sam Raimi
+80,tt4255304,The Void,5.8,90,2016,"Horror, Mystery, Sci-Fi, Thriller",35656,2016/9/22,"Jeremy Gillespie, Steven Kostanski"
+81,tt0078087,Piranha,5.9,94,1978,"Comedy, Horror, Sci-Fi, Thriller",21606,1978/8/3,Joe Dante
+82,tt0106308,Army of Darkness,7.4,81,1992,"Comedy, Horror",175704,1992/10/9,Sam Raimi
+83,tt0190374,Dungeons & Dragons,3.6,107,2000,"Action, Adventure, Fantasy",33400,2000/12/8,Courtney Solomon
+84,tt0822847,Priest,5.7,87,2011,"Action, Adventure, Fantasy, Horror, Sci-Fi, Thriller",119688,2011/4/26,Scott Stewart
+85,tt8322060,Tremors: Shrieker Island,5.4,103,2020,"Action, Adventure, Comedy, Horror, Sci-Fi, Thriller",4230,2020/10/7,Don Michael Paul
+86,tt0194314,Romance,5.2,84,1999,"Drama, Romance",10843,1999/4/14,Catherine Breillat
+87,tt0069293,Solyaris,8,167,1972,"Drama, Mystery, Sci-Fi",90160,1972/2/5,Andrei Tarkovsky
+88,tt0432021,Resident Evil: Extinction,6.2,94,2007,"Action, Horror, Sci-Fi",194100,2007/9/20,Russell Mulcahy
+89,tt1020543,Infestation,5.8,91,2009,"Action, Adventure, Comedy, Horror, Sci-Fi, Thriller",9343,2009/7/2,Kyle Rankin
+90,tt0253556,Reign of Fire,6.2,101,2002,"Action, Adventure, Fantasy, Thriller",135191,2002/7/9,Rob Bowman
+91,tt0070531,Phase IV,6.5,84,1974,"Horror, Sci-Fi, Thriller",8533,1974/9/30,Saul Bass
+92,tt2251281,Dark Was the Night,5.6,99,2014,"Drama, Horror, Thriller",10270,2014/10/16,Jack Heller
+93,tt1331335,Wyvern,4.7,89,2009,"Action, Adventure, Fantasy, Horror, Sci-Fi, Thriller",2118,2009/1/31,Steven R. Monroe
+94,tt1314248,Troglodyte,4.1,87,2008,"Action, Adventure, Comedy, Fantasy, Horror, Mystery, Sci-Fi, Thriller",1611,2008/6/30,Paul Ziller
+95,tt0050294,The Deadly Mantis,5.1,79,1957,"Family, Horror, Sci-Fi, Thriller",3643,1957/5/1,Nathan Juran
+96,tt0387808,Idiocracy,6.5,84,2006,"Adventure, Comedy, Sci-Fi, Thriller",160605,2006/9/1,Mike Judge
+97,tt0099052,Arachnophobia,6.5,109,1990,"Comedy, Horror, Thriller",69433,1990/7/18,Frank Marshall
+98,tt0048696,Tarantula,6.4,80,1955,"Horror, Sci-Fi",9728,1955/11/4,Jack Arnold
+99,tt0087363,Gremlins,7.3,106,1984,"Comedy, Fantasy, Horror",219754,1984/6/8,Joe Dante
+100,tt0118571,Air Force One,6.5,124,1997,"Action, Drama, Thriller",193946,1997/7/21,Wolfgang Petersen

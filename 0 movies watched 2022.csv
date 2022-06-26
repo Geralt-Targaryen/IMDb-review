@@ -1,0 +1,77 @@
+Position,Const,Title,IMDb Rating,Runtime (mins),Year,Genres,Num Votes,Release Date,Directors
+1,tt9376612,Shang-Chi and the Legend of the Ten Rings,7.4,132,2021,"Action, Adventure, Fantasy, Sci-Fi",358472,2021/8/16,Destin Daniel Cretton
+2,tt10838180,The Matrix Resurrections,5.7,148,2021,"Action, Sci-Fi",232273,2021/12/16,Lana Wachowski
+3,tt0076271,Kingdom of the Spiders,5.7,97,1977,"Horror, Sci-Fi",5279,1977/8/24,John 'Bud' Cardos
+4,tt3722614,Revolt,5.3,87,2017,"Action, Adventure, Sci-Fi",9482,2017/7/1,Joe Miale
+5,tt9032400,Eternals,6.3,156,2021,"Action, Adventure, Fantasy, Sci-Fi",314480,2021/10/18,Chloé Zhao
+6,tt1160419,Dune: Part One,8,155,2021,"Action, Adventure, Drama, Sci-Fi",583404,2021/9/3,Denis Villeneuve
+7,tt0083959,Forbidden World,5.1,77,1982,"Horror, Sci-Fi",5269,1982/5/7,Allan Holzman
+8,tt7713068,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,6,109,2020,"Action, Adventure, Comedy, Crime",230483,2020/1/25,Cathy Yan
+9,tt0082431,Galaxy of Terror,5,81,1981,"Action, Adventure, Horror, Sci-Fi",7758,1981/10/31,Bruce D. Clark
+10,tt6264654,Free Guy,7.1,115,2021,"Action, Adventure, Comedy, Fantasy, Sci-Fi",346013,2021/8/10,Shawn Levy
+11,tt6334354,The Suicide Squad,7.2,132,2021,"Action, Adventure, Comedy, Sci-Fi",333388,2021/7/28,James Gunn
+12,tt0367093,Starship Troopers 2: Hero of the Federation,3.5,88,2004,"Action, Adventure, Horror, Sci-Fi",23221,2004/4/24,Phil Tippett
+13,tt7097896,Venom: Let There Be Carnage,5.9,97,2021,"Action, Adventure, Sci-Fi, Thriller",207254,2021/9/14,Andy Serkis
+14,tt0075909,Damnation Alley,5.2,91,1977,Sci-Fi,5325,1977/9/10,Jack Smight
+15,tt0087332,Ghostbusters,7.8,105,1984,"Action, Comedy, Fantasy, Sci-Fi",406774,1984/6/7,Ivan Reitman
+16,tt0097428,Ghostbusters II,6.6,108,1989,"Action, Comedy, Fantasy, Sci-Fi",204324,1989/6/15,Ivan Reitman
+17,tt8332922,A Quiet Place Part II,7.2,97,2020,"Drama, Horror, Sci-Fi, Thriller",212805,2020/3/8,John Krasinski
+18,tt4513678,Ghostbusters: Afterlife,7.1,124,2021,"Adventure, Comedy, Fantasy, Sci-Fi",158809,2021/10/8,Jason Reitman
+19,tt0064393,The Green Slime,4.8,90,1968,"Drama, Horror, Sci-Fi",3601,1968/7/6,Kinji Fukasaku
+20,tt0096895,Batman,7.5,126,1989,"Action, Adventure",372303,1989/6/19,Tim Burton
+21,tt0103776,Batman Returns,7.1,126,1992,"Action, Crime, Fantasy",301162,1992/6/16,Tim Burton
+22,tt0372784,Batman Begins,8.2,140,2005,"Action, Crime, Drama",1434484,2005/5/31,Christopher Nolan
+23,tt0468569,The Dark Knight,9,152,2008,"Action, Crime, Drama, Thriller",2573487,2008/7/14,Christopher Nolan
+24,tt4262980,Shin Gojira,6.8,120,2016,"Action, Drama, Horror, Sci-Fi",27487,2016/7/25,"Shinji Higuchi, Hideaki Anno"
+25,tt0149261,Deep Blue Sea,5.9,105,1999,"Action, Adventure, Sci-Fi, Thriller",132845,1999/7/26,Renny Harlin
+26,tt6506264,Tides,5.3,104,2021,"Action, Adventure, Sci-Fi, Thriller",8277,2021/1/6,Tim Fehlbaum
+27,tt1345836,The Dark Knight Rises,8.4,164,2012,"Action, Drama",1661664,2012/7/16,Christopher Nolan
+28,tt10872600,Spider-Man: No Way Home,8.3,148,2021,"Action, Adventure, Fantasy, Sci-Fi",662085,2021/12/13,Jon Watts
+29,tt0134847,Pitch Black,7.1,109,2000,"Action, Horror, Sci-Fi, Thriller",237623,2000/2/18,David Twohy
+30,tt0080904,Humanoids from the Deep,5.7,80,1980,"Horror, Sci-Fi",9179,1980/3/28,"Barbara Peeters, Jimmy T. Murakami"
+31,tt0870154,Jungle Cruise,6.6,127,2021,"Action, Adventure, Comedy, Fantasy",179699,2021/7/24,Jaume Collet-Serra
+32,tt9777666,The Tomorrow War,6.5,138,2021,"Action, Adventure, Drama, Sci-Fi, Thriller",197659,2021/7/2,Chris McKay
+33,tt0053611,Attack of the Giant Leeches,3.7,62,1959,"Horror, Sci-Fi",4396,1959/10/31,Bernard L. Kowalski
+34,tt0120611,Blade,7.1,120,1998,"Action, Horror, Sci-Fi",268922,1998/8/19,Stephen Norrington
+35,tt0118929,Dark City,7.6,100,1998,"Fantasy, Mystery, Sci-Fi, Thriller",198659,1998/2/25,Alex Proyas
+36,tt0087998,The Deadly Spawn,5.9,81,1983,"Horror, Sci-Fi",4635,1983/4/22,Douglas McKeown
+37,tt1409024,Men in Black 3,6.8,106,2012,"Action, Adventure, Comedy, Sci-Fi",357556,2012/5/14,Barry Sonnenfeld
+38,tt0486099,Kraken: Tentacles of the Deep,3.6,88,2006,"Action, Adventure, Comedy, Fantasy, Horror, Sci-Fi, Thriller",1217,2006/9/23,"John Blush, Tibor Takács"
+39,tt2051879,Europa Report,6.4,97,2013,"Adventure, Drama, Mystery, Sci-Fi, Thriller",70992,2013/6/15,Sebastián Cordero
+40,tt0088944,Commando,6.7,90,1985,"Action, Adventure, Thriller",158878,1985/10/4,Mark L. Lester
+41,tt0109830,Forrest Gump,8.8,142,1994,"Drama, Romance",2010363,1994/6/23,Robert Zemeckis
+42,tt0203940,Spiders,3.9,94,2000,"Horror, Sci-Fi, Thriller",3014,2000/6/14,Gary Jones
+43,tt1502712,Fantastic Four,4.3,100,2015,"Action, Adventure, Sci-Fi",164952,2015/8/4,"Josh Trank, Stephen E. Rivkin"
+44,tt0076759,Star Wars,8.6,121,1977,"Action, Adventure, Fantasy, Sci-Fi",1331552,1977/5/25,George Lucas
+45,tt0259324,Ghost Rider,5.2,110,2007,"Action, Fantasy, Thriller",236993,2007/1/15,Mark Steven Johnson
+46,tt0072750,Bug,5.2,99,1975,"Horror, Mystery, Sci-Fi, Thriller",2437,1975/3/23,Jeannot Szwarc
+47,tt2397535,Predestination,7.4,97,2014,"Action, Drama, Sci-Fi, Thriller",278552,2014/3/8,"Michael Spierig, Peter Spierig"
+48,tt4680182,Colossal,6.2,109,2016,"Comedy, Drama, Fantasy, Sci-Fi",64280,2016/9/9,Nacho Vigalondo
+49,tt0080684,The Empire Strikes Back,8.7,124,1980,"Action, Adventure, Fantasy, Sci-Fi",1259384,1980/5/17,Irvin Kershner
+50,tt4052882,The Shallows,6.3,86,2016,"Action, Drama, Horror, Thriller",131068,2016/6/21,Jaume Collet-Serra
+51,tt1071875,Ghost Rider: Spirit of Vengeance,4.3,96,2011,"Action, Fantasy, Thriller",118742,2011/12/11,"Brian Taylor, Mark Neveldine"
+52,tt0086190,Star Wars: Episode VI - Return of the Jedi,8.3,131,1983,"Action, Adventure, Fantasy, Sci-Fi",1028765,1983/5/23,Richard Marquand
+53,tt0884328,The Mist,7.1,126,2007,"Horror, Sci-Fi, Thriller",301807,2007/11/12,Frank Darabont
+54,tt0093995,"Slugs, muerte viscosa",5.2,92,1988,Horror,5089,1988/2/5,Juan Piquer Simón
+55,tt4123430,Fantastic Beasts: The Crimes of Grindelwald,6.5,134,2018,"Adventure, Family, Fantasy",274995,2018/11/8,David Yates
+56,tt18689424,Batman v Superman: Dawn of Justice Ultimate Edition,7.2,182,2016,"Action, Adventure, Sci-Fi",46926,2016/3/23,Zack Snyder
+57,tt1877830,The Batman,7.9,176,2022,"Action, Crime, Drama, Mystery",522323,2022/3/1,Matt Reeves
+58,tt5108870,Morbius,5.1,104,2022,"Action, Adventure, Horror, Sci-Fi, Thriller",83207,2022/3/23,Daniel Espinosa
+59,tt2363213,Gåten Ragnarok,5.9,100,2013,"Adventure, Fantasy",8271,2013/8/30,Mikkel Brænne Sandemose
+60,tt0139414,Lake Placid,5.7,82,1999,"Action, Comedy, Horror",60966,1999/1/1,Steve Miner
+61,tt9490414,Yun nan chong gu,4.7,110,2018,"Action, Adventure, Fantasy, Horror, Mystery",555,2018/12/29,Xing Fei
+62,tt0047034,Gojira,7.5,96,1954,"Horror, Sci-Fi",33526,1954/11/3,Ishirô Honda
+63,tt0108339,Ticks,5.5,85,1993,"Horror, Sci-Fi",4985,1993/6/4,Tony Randel
+64,tt0113858,Mosquito,4.7,92,1994,"Horror, Sci-Fi",2416,1994/11/21,Gary Jones
+65,tt0075261,Squirm,4.8,92,1976,Horror,5950,1976/7/30,Jeff Lieberman
+66,tt0464154,Piranha 3D,5.5,88,2010,"Comedy, Horror",90548,2010/8/20,Alexandre Aja
+67,tt4060576,Lavalantula,4.6,83,2015,"Action, Adventure, Comedy, Horror, Sci-Fi, Thriller",3096,2015/7/25,Mike Mendez
+68,tt1504443,Mongolian Death Worm,3.4,90,2010,"Action, Adventure, Comedy, Horror, Sci-Fi, Thriller",1681,2010/5/8,Steven R. Monroe
+69,tt2474972,Outpost 37,4.7,92,2014,"Action, Sci-Fi, Thriller",6296,2014/9/19,Jabbar Raisani
+70,tt13504694,Yi shou jue xing,4.1,87,2020,"Sci-Fi, Thriller",46,2020/10/27,Yun Xiang Lin
+71,tt0048127,Gojira no gyakushû,5.8,82,1955,"Horror, Sci-Fi",6847,1955/4/24,"Ishirô Honda, Motoyoshi Oda"
+72,tt4123432,Fantastic Beasts: The Secrets of Dumbledore,6.2,142,2022,"Action, Adventure, Fantasy",100985,2022/4/6,David Yates
+73,tt2463208,The Adam Project,6.7,106,2022,"Action, Adventure, Comedy, Sci-Fi",176046,2022/2/28,Shawn Levy
+74,tt7657566,Death on the Nile,6.3,127,2022,"Crime, Drama, Mystery",120035,2022/2/9,Kenneth Branagh
+75,tt15090124,Mad God,6.8,83,2021,"Animation, Fantasy, Horror, Sci-Fi",3320,2021/8/5,Phil Tippett
+76,tt9419884,Doctor Strange in the Multiverse of Madness,7.2,126,2022,"Action, Adventure, Fantasy, Horror, Sci-Fi",242821,2022/5/2,Sam Raimi
